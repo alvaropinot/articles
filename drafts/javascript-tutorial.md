@@ -11,12 +11,13 @@ MDN is your friend
 * **Object**, including *functions*
 
 # ES6/ES2015
+http://coenraets.org/present/es6/
 > ES6/ES2015 is the current JavaScript standard, but most of the existing learning resources are written for an older version of JavaScript. In the meantime, all the new blog posts and tutorials are written for ES6, and if you’re building new apps, you should be doing so using ES6. Read “How to Learn ES6” to get up to speed.
 
 ## Data types
 ES5 Data Types and:
 * **Symbol** (new in ECMAScript 6). A data type whose instances are unique and immutable.
-Object*
+
 
 # modules and packages
 ![Modulecounts.com — June 2015](https://cdn-images-1.medium.com/max/800/1*43oJh5d5f_nluvByRPrgvw.png)
@@ -53,6 +54,7 @@ nvm
 
 ## babel
 ## browserify
+## webpack
 
 
 # Tooling
