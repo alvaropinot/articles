@@ -77,6 +77,10 @@ nvm
 ## nodeschool
   * Learn JavaScript by adventuring around in the terminal. https://github.com/sethvincent/javascripting
 
+# Knowing the guts
+## hoisting
+## closures http://mrale.ph/blog/2012/09/23/grokking-v8-closures-for-fun.html
+
 # resources
 
 https://medium.com/javascript-scene/learn-javascript-b631a4af11f2#.l6dqmoz7n
