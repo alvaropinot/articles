@@ -83,6 +83,9 @@ nvm
 
 # resources
 
+Learn node
+http://www.nodebeginner.org/
+
 https://medium.com/javascript-scene/learn-javascript-b631a4af11f2#.l6dqmoz7n
 http://jsforcats.com/
 http://eloquentjavascript.net/1st_edition/chapter2.html
