@@ -18,6 +18,10 @@ http://coenraets.org/present/es6/
 ES5 Data Types and:
 * **Symbol** (new in ECMAScript 6). A data type whose instances are unique and immutable.
 
+## Resources
+try es6 on your browser with babeljs
+https://babeljs.io/repl/
+
 
 # modules and packages
 ![Modulecounts.com — June 2015](https://cdn-images-1.medium.com/max/800/1*43oJh5d5f_nluvByRPrgvw.png)
