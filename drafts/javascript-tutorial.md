@@ -25,6 +25,8 @@ https://babeljs.io/repl/
 great list of es6 features explained
 https://github.com/lukehoban/es6features
 
+es6 features compared to es5 polyfills
+http://es6-features.org/
 
 # modules and packages
 ![Modulecounts.com — June 2015](https://cdn-images-1.medium.com/max/800/1*43oJh5d5f_nluvByRPrgvw.png)
