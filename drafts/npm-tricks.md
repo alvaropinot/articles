@@ -17,3 +17,29 @@ $ npm config set init.license MIT
 
 If your are a bit curious or you just want to see your new defaults you can run ```$ npm config ls -l```  for a full list of
 npm settings.
+
+## Override package.json config at runtime with arguments
+Extracted from 
+```$ npm help 7 config```
+
+> "config" keys are overwritten in the environment if there is  a  config
+param  of  <name>[@<version>]:<key>.   For example, if the package.json
+has this:
+
+ ```js
+ { "name" : "foo"
+ , "config" : { "port" : "8080" }
+ , "scripts" : { "start" : "node server.js" } }
+ ```
+
+> and the server.js is this:
+
+ ```js
+http.createServer(...).listen(process.env.npm_package_config_port)
+```
+
+> then the user could change the behavior by doing:
+
+ ```$ npm config set foo:port 80```
+
+> See npm help 5 package.json for more information.
